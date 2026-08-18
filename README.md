@@ -1,8 +1,6 @@
 # hii im yaluse
 
 im a 16yo silliness generator from russia <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Pansexuality_Pride_Flag.svg/1920px-Pansexuality_Pride_Flag.svg.png" width=80px alt="pansexual">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Femboy_flag.svg/960px-Femboy_flag.svg.png" width="80px" alt="femboy">
 
 ### My OS
 <div align="left">
